@@ -10,9 +10,9 @@ body{
   font-family: 'Climate Crisis', cursive;
   font-size:80pt;
   text-align: center;
-  border: 10px solid purple;
+ 
 }
-/* //delete border */
+
 .bodyContainer{
   padding:50px;
 }
